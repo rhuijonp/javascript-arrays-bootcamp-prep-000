@@ -15,6 +15,7 @@ function addElementToBeginningOfArray(array, e) {
    return array;
 }
 
-function destructivelyAddElementToBeginningOfArray(array, element) {
-  
+function destructivelyAddElementToBeginningOfArray(array, e) {
+   array = [e, array];
+   return array;
 }
