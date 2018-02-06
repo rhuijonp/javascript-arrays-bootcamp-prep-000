@@ -19,4 +19,11 @@ function destructivelyAddElementToBeginningOfArray(array, e) {
    return array;
 }
 
-function 
+function addElementToEndOfArray(){
+  
+}
+
+function
+
+
+
