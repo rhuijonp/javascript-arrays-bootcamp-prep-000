@@ -9,9 +9,9 @@ var ingridient6 = "garlic";
 
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
-function addElementToBeginningOfArray(array, element) {
+function addElementToBeginningOfArray(array, e) {
    
-   array = [element,...array];
+   array = [e,...array];
    return array;
 }
 
